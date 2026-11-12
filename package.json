@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-obfuscator",
+  "version": "22.2.0",
+  "description": "Advanced Node.js obfuscator and secure loader with AES-256 encryption and 1000+ lines padding trap.",
+  "main": "obf.js",
+  "scripts": {
+    "obfuscate": "node obf.js",
+    "test": "node run_test.js"
+  },
+  "keywords": [
+    "obfuscator",
+    "javascript-obfuscator",
+    "nodejs",
+    "termux",
+    "security",
+    "encryption"
+  ],
+  "scripts": {
+  "start": "node obf.js",
+  },
+  "author": "RyotaXD (github.com/RyotaXD)",
+  "license": "MIT",
+  "dependencies": {
+    "javascript-obfuscator": "^4.1.0"
+  }
+}
