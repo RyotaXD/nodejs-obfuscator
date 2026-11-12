@@ -36,7 +36,8 @@ Clone repositori ini atau masukkan file builder (`obf.js`) ke dalam direktori pr
 # Clone repository
 git clone https://github.com/RyotaXD/nodejs-obfuscator
 cd nodejs-obfuscator
-node obf.js
+npm start
+atau node obf.js
 
 # Install dependencies yang dibutuhkan
-npm install javascript-obfuscator
+npm install
